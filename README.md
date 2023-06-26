@@ -6,6 +6,6 @@ Each week, the group selects the next paper that we will collectively study. Thr
 
 The meeting is structured in three parts:
 
-A randomly selected member explains the paper in their own words. (20 minutes)
-A general discussion about the paper is conducted, covering topics such as difficult concepts, clever breakthroughs, interesting sections, and potential day-to-day applications. (40 minutes)
-After a coffee break, there is an optional time to talk about any subject indefinitely.
+1. A randomly selected member explains the paper in their own words. (20 minutes)
+2. A general discussion about the paper is conducted, covering topics such as difficult concepts, clever breakthroughs, interesting sections, and potential day-to-day applications. (40 minutes)
+3. After a coffee break, there is an optional time to talk about any subject indefinitely.
